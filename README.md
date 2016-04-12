@@ -1,5 +1,3 @@
-# vanilla-slide-deck-reveal-js
-
 #Vanilla Slide Deck using Reveal.js
 
 Can be seen live on github pages: http://bseymour.github.io/vanilla-slide-deck-reveal-js/
